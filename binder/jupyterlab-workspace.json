@@ -78,7 +78,7 @@
       }
     },
     "dask-dashboard-launcher": {
-      "url": "DASK_DASHBOARD_URL",
+      "url": "/user/dask-dask-tutorial-op8o1vew/proxy/8787",
       "cluster": ""
     },
     "notebook:00_overview.ipynb": {
