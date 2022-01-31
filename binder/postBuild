@@ -6,7 +6,7 @@ SPARK_HOME=$HOME/spark-3.2.1-bin-hadoop2.7
 export PATH=$SPARK_HOME/bin:$PATH
 export PYTHONPATH=$SPARK_HOME/python:$PYTHONPATH
 export PYSPARK_SUBMIT_ARGS="--master local[*] pyspark-shell"
-jupyter serverextension enable --py nbserverproxy
+#jupyter serverextension enable --py nbserverproxy
 # Install the JupyterLab dask-labextension
 jupyter labextension install dask-labextension
 jupyter labextension install @jupyter-widgets/jupyterlab-manager
