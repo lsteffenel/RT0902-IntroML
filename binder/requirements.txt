@@ -1,4 +1,4 @@
-name: dask-tutorial
+name: RT0902-IntroML
 channels:
   - conda-forge
 dependencies:
