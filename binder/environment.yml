@@ -12,7 +12,6 @@ dependencies:
   - toolz
   - bokeh>=2.0.0
   - dask=2021.08.0
-  - daskml
   - dask-labextension>=2.0.0
   - distributed=2021.08.0
   - notebook
@@ -28,6 +27,7 @@ dependencies:
   - pip
   - s3fs
   - fastparquet
+  - dask-ml
   - ipywidgets>=7.5
   - cachey
   - python-graphviz
