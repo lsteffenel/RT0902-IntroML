@@ -41,3 +41,4 @@ dependencies:
   - joblib
   - tqdm
   - ipywidgets
+  - jupyter-server-proxy
