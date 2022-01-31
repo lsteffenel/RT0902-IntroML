@@ -28,7 +28,6 @@ dependencies:
   - pip
   - s3fs
   - fastparquet
-  - dask-ml
   - ipywidgets>=7.5
   - cachey
   - python-graphviz
@@ -37,7 +36,6 @@ dependencies:
   - seaborn
   - pyspark==3.2.1
   - scikit-learn
-  - tensorflow==2.7.0
   - imageio
   - Pillow
   - joblib
