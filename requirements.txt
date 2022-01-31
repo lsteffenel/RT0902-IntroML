@@ -9,7 +9,10 @@ numpy
 pandas
 scipy
 seaborn
+pyspark
 
+dask-ml
+fastparquet
 
 ##### Machine Learning packages
 scikit-learn
