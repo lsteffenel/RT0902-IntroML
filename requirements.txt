@@ -9,7 +9,7 @@ numpy
 pandas
 scipy
 seaborn
-pyspark
+pyspark==3.2.1
 
 dask-ml
 fastparquet
