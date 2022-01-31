@@ -12,6 +12,7 @@ seaborn
 pyspark==3.2.1
 
 dask-ml
+dask-labextension
 fastparquet
 
 ##### Machine Learning packages
