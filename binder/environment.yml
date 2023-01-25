@@ -34,7 +34,7 @@ dependencies:
   - zarr
   - scipy
   - seaborn
-  - pyspark==3.2.1
+  - pyspark==3.2.3
   - scikit-learn
   - imageio
   - Pillow
