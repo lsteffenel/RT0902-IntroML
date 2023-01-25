@@ -4,7 +4,7 @@ channels:
 dependencies:
   - python=3.8
   - nodejs
-  - jupyterlab>=2.0.0,<3
+  - jupyterlab
   - numpy>=1.18.1
   - h5py
   - holidays
@@ -13,7 +13,7 @@ dependencies:
   - bokeh>=2.0.0
   - dask=2021.08.0
   - dask-labextension>=2.0.0
-  - distributed=2021.08.0
+  - distributed
   - notebook
   - matplotlib
   - Pillow
